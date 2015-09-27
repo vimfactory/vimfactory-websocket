@@ -1,0 +1,5 @@
+/.bundle
+*.pid
+vendor/bundle
+config/connection_sh.conf
+!.gitkeep
