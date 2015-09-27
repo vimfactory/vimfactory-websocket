@@ -1,5 +1,6 @@
 /.bundle
 *.pid
 vendor/bundle
+logs/
 config/connection_sh.conf
 !.gitkeep
