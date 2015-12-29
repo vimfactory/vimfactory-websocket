@@ -7,4 +7,4 @@ OpenStdin: true
 StdinOnce: false
 HostConfig:
   Binds:
-    - "/home/vimfactory/vimrcs:/home/you/vimrcs"
+    - "/home/vimfactory/vimstorage:/home/you/vimstorage"
